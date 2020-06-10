@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  test2
+//  learngit
 //
-//  Created by Gopikrishna Mandapati on 2020-06-09.
+//  Created by Gopikrishna Mandapati on 2020-06-10.
 //  Copyright © 2020 Lakshmi Mandapati. All rights reserved.
 //
 
@@ -10,7 +10,6 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    //comment
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
